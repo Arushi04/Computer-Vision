@@ -11,4 +11,6 @@ Installation : Install a virtual environment with Python3 and open the jupyter n
 
 4. Install project specific kernel:    ipython kernel install --user --name=projectname
 
-5. Run the command : jupyter notebook
+5. Install cv : pip3 install opencv-python
+
+6. Open the jupyter notebook by running the command : jupyter notebook
