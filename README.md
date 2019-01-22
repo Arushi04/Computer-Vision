@@ -1,4 +1,4 @@
-Project Name : Computer Vision 
+#Project Name : Computer Vision 
 Project Description : This project contains the basics of computer vision to help beginner getting hands on it. 
 
 Installation : Install a virtual environment with Python3 and open the jupyter notebook through the virtual environment.
